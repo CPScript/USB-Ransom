@@ -13,7 +13,6 @@ echo off
 %backupcmd% "%USERPROFILE%\Desktop" "%drive%\all\Desktop"
 %backupcmd% "%USERPROFILE%\Downloads" "%drive%\all\Downloads"
 %backupcmd% "%USERPROFILE%\Documents" "%drive%\all\Documents"
-%backupcmd% "%USERPROFILE%\" "%drive%\all\"
 
 @echo off
 cls
