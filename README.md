@@ -5,4 +5,8 @@
 # Test 2
 [Screen recording 2023-02-10 11.43.45 AM.webm](https://user-images.githubusercontent.com/83523587/218147892-f2594fb8-f525-4a61-841f-59827215b6e4.webm)
 
-note to self... make powershell open befor the program starts
+note to self... make powershell open before the program starts
+
+# Test 3
+
+[Screen recording 2023-02-10 12.37.53 PM.webm](https://user-images.githubusercontent.com/83523587/218159464-da7ea358-a74b-45f9-ac37-40a068527080.webm)
