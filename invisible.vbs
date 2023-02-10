@@ -18,7 +18,7 @@ CreateObject("Wscript.Shell").Run """Disable.bat""", 1, True
 Set objShell = CreateObject( "Wscript.shell" )
 objShell.run("powershell -noexit -file c:\fso\Get-Password.ps1")
 WScript.Sleep(666)
-CreateObject("Wscript.Shell").Run """Get-Password.ps1""", 1, True
+objShell.run("Wscript.Shell").Run """Get-Password.ps1""", 1, True
 
 ''' enable movments
 CreateObject("Wscript.Shell").Run """Enable.bat""", 1, True
