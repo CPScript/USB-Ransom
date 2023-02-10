@@ -10,3 +10,5 @@ note to self... make powershell open before the program starts
 # Test 3
 
 [Screen recording 2023-02-10 12.37.53 PM.webm](https://user-images.githubusercontent.com/83523587/218159464-da7ea358-a74b-45f9-ac37-40a068527080.webm)
+
+Changed the entire Look of the trojan
