@@ -3,6 +3,8 @@
 DIM FSO, MyFile
 Set oShell = CreateObject( "WScript.Shell" )
 
+
+
 ''' Alert Box
 z=MsgBox("Your Windows PC requires an update... ", 0+64, "Windows Alert!!!")
 
