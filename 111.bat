@@ -106,7 +106,7 @@ COLOR 4F
 @echo off
 echo ===================================================================================                                                                       
 echo 
-echo You just got hacked... Im very sorry for your PC, but for you this in nothing!!!
+echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
 echo 
 echo ===================================================================================
 PAUSE
