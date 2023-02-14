@@ -98,9 +98,165 @@ COLOR 70
 COLOR 07
 COLOR 70
 COLOR 07
+
+
 COLOR 70
 cls
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
 
+COLOR 4F
+ 
+echo                                  uuuuuuu
+echo                              uu$$$$$$$$$$$uu
+echo                            uu$$$$$$$$$$$$$$$$$uu
+echo                           u$$$$$$$$$$$$$$$$$$$$$u
+echo                          u$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$"   "$$$"   "$$$$$$u
+echo                         "$$$$"      u$u       $$$$"
+echo                          $$$u       u$u       u$$$
+echo                          $$$u      u$$$u      u$$$
+echo                           "$$$$uu$$$   $$$uu$$$$"
+echo                            "$$$$$$$"   "$$$$$$$"
+echo                              u$$$$$$$u$$$$$$$u
+echo                               u$"$"$"$"$"$"$u
+echo                     uuu       $$u$ $ $ $ $u$$       uuu
+echo                    u$$$$       $$$$$u$u$u$$$       u$$$$
+echo                    $$$$$uu      "$$$$$$$$$"     uu$$$$$$
+echo                  u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
+echo                  $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
+echo                  b   """      ""$$$$$$$$$$$uu ""$"""
+echo                            uuuu ""$$$$$$$$$$uuu
+echo                   u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
+echo                   $$$$$$$$$$""""           ""$$$$$$$$$$$"
+echo                    "$$$$$"                      ""$$$$""
+echo                      $$$"                         $$$$"
 COLOR 4F
 
 @echo off
