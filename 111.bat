@@ -4,109 +4,138 @@ cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) &&
 
 
 COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
-COLOR 70
-COLOR 07
+cls
+timeout /t 1
 COLOR 70
 cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
+COLOR 07
+cls
+timeout /t 1
+COLOR 70
+cls
+timeout /t 1
 
 COLOR 4F
 
-@echo off
 echo ===================================================================================                                                                       
 echo 
 echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
 echo 
 echo ===================================================================================
+@echo off
 PAUSE
