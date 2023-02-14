@@ -230,7 +230,8 @@ cls
 timeout /t 1
 
 COLOR 4F
- 
+
+@echo off
 echo                                  uuuuuuu
 echo                              uu$$$$$$$$$$$uu
 echo                            uu$$$$$$$$$$$$$$$$$uu
@@ -259,7 +260,6 @@ echo                    "$$$$$"                      ""$$$$""
 echo                      $$$"                         $$$$"
 COLOR 4F
 
-@echo off
 echo ===================================================================================                                                                       
 echo 
 echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
