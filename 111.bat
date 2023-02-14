@@ -132,10 +132,36 @@ timeout /t 1
 
 COLOR 4F
 
+echo                  uuuuuuu
+echo              uu$$$$$$$$$$$uu
+echo           uu$$$$$$$$$$$$$$$$$uu
+echo          u$$$$$$$$$$$$$$$$$$$$$u
+echo         u$$$$$$$$$$$$$$$$$$$$$$$u
+echo        u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo        u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo             $$"   "$$$"   "$$$$$$u
+echo                         "$$$$"      u$u       $$$$"
+echo                          $$$u       u$u       u$$$
+echo                          $$$u      u$$$u      u$$$
+echo                           "$$$$uu$$$   $$$uu$$$$"
+echo                            "$$$$$$$"   "$$$$$$$"
+echo                              u$$$$$$$u$$$$$$$u
+echo                               u$"$"$"$"$"$"$u
+echo                     uuu       $$u$ $ $ $ $u$$       uuu
+echo                    u$$$$       $$$$$u$u$u$$$       u$$$$
+echo                    $$$$$uu      "$$$$$$$$$"     uu$$$$$$
+echo                  u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
+echo                  $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
+echo                  b   """      ""$$$$$$$$$$$uu ""$"""
+echo                            uuuu ""$$$$$$$$$$uuu
+echo                   u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
+echo                   $$$$$$$$$$""""           ""$$$$$$$$$$$"
+echo                    "$$$$$"                      ""$$$$""
+echo                      $$$"                         $$$$"
+echo 
 echo ===================================================================================                                                                       
 echo 
 echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
 echo 
 echo ===================================================================================
-@echo off
 PAUSE
