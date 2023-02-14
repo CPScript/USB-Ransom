@@ -179,57 +179,10 @@ cls
 timeout /t 1
 COLOR 70
 cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
-COLOR 07
-cls
-timeout /t 1
-COLOR 70
-cls
-timeout /t 1
+
 
 COLOR 4F
+cls
 
 @echo off
 echo                                  uuuuuuu
@@ -261,8 +214,8 @@ echo                      $$$"                         $$$$"
 COLOR 4F
 
 echo ===================================================================================                                                                       
-echo 
+echo =
 echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
-echo 
+echo =
 echo ===================================================================================
 PAUSE
