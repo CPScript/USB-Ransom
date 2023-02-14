@@ -131,15 +131,15 @@ cls
 timeout /t 1
 
 COLOR 4F
-
-echo                  uuuuuuu
-echo              uu$$$$$$$$$$$uu
-echo           uu$$$$$$$$$$$$$$$$$uu
-echo          u$$$$$$$$$$$$$$$$$$$$$u
-echo         u$$$$$$$$$$$$$$$$$$$$$$$u
-echo        u$$$$$$$$$$$$$$$$$$$$$$$$$u
-echo        u$$$$$$$$$$$$$$$$$$$$$$$$$u
-echo             $$"   "$$$"   "$$$$$$u
+ 
+echo                                  uuuuuuu
+echo                              uu$$$$$$$$$$$uu
+echo                            uu$$$$$$$$$$$$$$$$$uu
+echo                           u$$$$$$$$$$$$$$$$$$$$$u
+echo                          u$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$$$$$$$$$$$$$$$$$$$$u
+echo                         u$$$$$$"   "$$$"   "$$$$$$u
 echo                         "$$$$"      u$u       $$$$"
 echo                          $$$u       u$u       u$$$
 echo                          $$$u      u$$$u      u$$$
@@ -161,7 +161,7 @@ echo                      $$$"                         $$$$"
 echo 
 echo ===================================================================================                                                                       
 echo 
-echo You just got hacked. Im very sorry for your PC, but for you this in nothing!
+echo You just got hacked.                                                      YOU LOSER
 echo 
 echo ===================================================================================
 PAUSE
