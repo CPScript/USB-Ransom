@@ -1,2 +1,2 @@
 # HOW TO USE:
-Add to flashdrive, plug into PC and let it run!
+Add entrie repo to flashdrive, plug into PC and let it run!
